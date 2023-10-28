@@ -1,40 +1,40 @@
-﻿Model Name
-Ampere Magnus EX
-Ampere Magnus Pro
-Ampere REO
-Ampere Zeal
-Ather 450X
-Bajaj Chetak
-Benling Aura
-BGauss B8
-Bounce Infinity E1
-e-bike Gen Nxt
-Evolet Polo
-Gemopai Astrid Lite
-Gemopai Ryder
-Hero Electric Atria
-Hero Electric Flash
-Hero Electric NYX
-Hero Electric NYX HX
-Hero Electric Optima
-Hero Electric Optima CX
-Hero Electric Photon
-Joy e-bike Monster
-Joy e-bike Wolf
-Odysse Evoqis
-Okinawa i-Praise
-Okinawa Lite
-Okinawa Praise
-Okinawa R30
-Okinawa Ridge Plus
-OLA S1
-OLA S1 Pro
-PURE EV EPluto 7G
-PURE EV ETrance Neo
-Revolt RV 300
-Revolt RV 400
-Techo Electra Emerge
-Techo Electra Raptor
-Tork Kratos
-TVS iQube
-Yo Drift
+﻿Model Name,Price,Riding Range (km),Top Speed (kmph),Weight (kg),Battery Charging Time (hrs),Rated Power (W)
+Ampere Magnus EX,104758,121,53,90,7,1200
+Ampere Magnus Pro,66053,45,25,94,10,250
+Ampere REO,61993,45,25,88,10,250
+Ampere Zeal,96544,120,53,80,7,1200
+Ather 450X,135489,111,90,108,8,3000
+Bajaj Chetak,131196,90,63,133,5,3800
+Benling Aura,91667,120,60,66,6,2500
+BGauss B8,62999,70,50,99,8,800
+Bounce Infinity E1,100905,85,65,94,4,1500
+e-bike Gen Nxt,74273,60,25,67,4,250
+Evolet Polo,55799,90,25,76,4,250
+Gemopai Astrid Lite,92289,90,65,95,4,2400
+Gemopai Ryder,70821,90,25,80,4,250
+Hero Electric Atria,77767,85,25,69,5,250
+Hero Electric Flash,59594,85,25,69,5,250
+Hero Electric NYX,86490,138,42,87,5,600
+Hero Electric NYX HX,86490,138,42,87,5,600
+Hero Electric Optima,106740,89,48,93,5,1200
+Hero Electric Optima CX,106740,89,48,93,5,1200
+Hero Electric Photon,110376,108,45,87,5,1200
+Joy e-bike Monster,100500,75,25,93,5,250
+Joy e-bike Wolf,78466,60,25,67,4,250
+Odysse Evoqis,171250,140,80,150,6,3000
+Okinawa i-Praise,124872,139,58,150,5,1000
+Okinawa Lite,67006,60,25,150,5,250
+Okinawa Praise,90282,88,58,150,3,1000
+Okinawa R30,61534,60,25,150,5,250
+Okinawa Ridge Plus,73124,84,45,150,3,800
+OLA S1,119827,151,90,108,5,2700
+OLA S1 Pro,139828,170,116,125,7,5500
+PURE EV EPluto 7G,83897,120,60,76,4,1500
+PURE EV ETrance Neo,78999,120,60,86,4,1500
+Revolt RV 300,109242,150,65,101,4,1500
+Revolt RV 400,134975,150,85,108,5,3000
+Techo Electra Emerge,68286,60,25,60,5,250
+Techo Electra Raptor,57893,90,25,60,5,250
+Tork Kratos,167844,180,70,140,7,4000
+TVS iQube,137890,100,78,117,5,3000
+Yo Drift,51094,60,25,59,8,250
